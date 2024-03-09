@@ -24,7 +24,7 @@ export default function FirstSection() {
           lines={["Juka Couto", "Fotografias"]}
         />
         <SocialsBar />
-        <figure className="w-[40vw] self-center flex items-center justify-center absolute bottom-0">
+        <figure className="w-[35vw] self-center flex items-center justify-center absolute -bottom-10">
           <Image
             src={jukaCouto}
             width={748}
